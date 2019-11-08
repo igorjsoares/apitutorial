@@ -16,8 +16,8 @@
     <body>
     <header class="page-header">
         <nav>
-            <div style="padding: 10px;" class="nav-wrapper white">
-            <a href="#!" class="brand-logo"><img src="logo-chatpro.svg"></a>
+            <div class="nav-wrapper white">
+            <a style="margin: 10px;" href="#!" class="brand-logo"><img src="logo-chatpro.svg"></a>
             <ul class="right hide-on-med-and-down">
                 <li><a class="waves-effect deep-orange btn">Acessar o Painel <i class="material-icons right">desktop_mac</i></a></li>
             </ul>
@@ -68,11 +68,10 @@
 </main>
         <footer class="page-footer blue lighten-3">
           <div class="container">
-
+            <div class="row">
                 <h5 class="white-text">Acesse nossa documentação</h5>
                 <a class="waves-effect deep-orange btn">DOCUMENTAÇÃO<i class="material-icons right">find_in_page</i></a>
-
-
+            </div>
           </div>
         </footer>
 
