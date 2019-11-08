@@ -22,14 +22,14 @@
         <main class="page-main">
 
         <!-- Page Layout here -->
-        <div style="display: flex;" class="row">
+        <div style="height: 100%;" class="row">
 
-            <div style="display: flex; flex-direction: column;" class="col s3 teal lighten-2">
+            <div class="col s3 teal lighten-2">
                 <!-- Grey navigation panel -->
                 Testando
             </div>
 
-            <div style="display: flex; flex-direction: column;" class="col s9">
+            <div class="col s9">
                 <!-- Teal page content  -->
             </div>
         </div>
