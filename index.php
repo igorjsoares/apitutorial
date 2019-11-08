@@ -27,7 +27,7 @@
         <main class="page-main">
 
         <!-- Page Layout here -->
-        <div style="height: 100%;" class="row">
+        <div class="row">
 
             <div class="col s3 teal lighten-2">
                 <!-- Grey navigation panel -->
@@ -43,11 +43,9 @@
         </div>
 </main>
         <footer class="page-footer">
-          <div class="container">
-            <div style="display: flex;" class="row">
+            <div class="row">
               <div class="col l12 s12">
                 <h5 class="white-text">Footer Content</h5>
-              </div>
             </div>
           </div>
         </footer>
