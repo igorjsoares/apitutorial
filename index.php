@@ -67,8 +67,8 @@
         </div>
 </main>
         <footer class="page-footer blue lighten-3">
-            Acesse nossa documentação
-            <a style="margin-left: 10px;" class="waves-effect deep-orange btn">DOCUMENTAÇÃO<i class="material-icons right">find_in_page</i></a>
+            <h5>Acesse nossa documentação</h5>
+            <a style="margin-left: 10px; margin-button: 5px;" class="waves-effect deep-orange btn">DOCUMENTAÇÃO<i class="material-icons right">find_in_page</i></a>
         </footer>
 
 
