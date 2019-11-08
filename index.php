@@ -66,11 +66,11 @@
             </div>
         </div>
 </main>
-        <footer class="page-footer">
+        <footer class="page-footer #eeeeee">
           <div class="container">
             <div class="row">
               <div class="col l12 s12">
-                <h5 class="white-text">Footer Content</h5>
+                <h5 class="white-text">Acesse nossa documentação </h5>
               </div>
             </div>
           </div>
