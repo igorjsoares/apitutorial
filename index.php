@@ -16,7 +16,7 @@
     <body>
     <header class="page-header">
         <nav>
-            <div style="padding: 5px;" class="nav-wrapper white">
+            <div style="padding: 10px;" class="nav-wrapper white">
             <a href="#!" class="brand-logo"><img src="logo-chatpro.svg"></a>
             <ul class="right hide-on-med-and-down">
                 <li><a class="waves-effect #f4511e btn">Acessar o Painel <i class="material-icons right">desktop_mac</i></a></li>
@@ -30,14 +30,38 @@
         <div class="row">
 
             <div class="col s3 teal lighten-2">
-                <!-- Grey navigation panel -->
-                Testando
+                <!-- MENU -->
+                <ul class="collection">
+                    <li class="collection-item avatar active">
+                    <i class="material-icons circle">question_answer</i>
+                    <span class="title">O QUE É API?</span>
+                    <p>Descubra o pra que serve a API ChatPro.</p>
+                    </li>
+
+                    <li class="collection-item avatar">
+                    <i class="material-icons circle">desktop_mac</i>
+                    <span class="title">ACESSO AO PAINEL</span>
+                    <p>Entenda como acessar o painel para os testes.</p>
+                    </li>
+
+                    <li class="collection-item avatar">
+                    <i class="material-icons circle">description</i>
+                    <span class="title">DOCUMENTAÇÃO INTERATIVA</span>
+                    <p>Realize teste pela documentação interativa.</p>
+                    </li>
+
+                    <li class="collection-item avatar">
+                    <i class="material-icons circle">import_export</i>
+                    <span class="title">POSTMAN</span>
+                    <p>Realize testes pelo POSTMAN.</p>
+                    </li>
+                </ul>
             </div>
 
             <div class="col s9">
                 <!-- Video em questão  -->
                 <div class="video-container teal lighten-2">
-                    <iframe width="426" height="240" src="videos/API_Apresentacao_ExportWS.mp4" frameborder="0"></iframe>
+                    <iframe width="852" height="480" src="videos/API_Apresentacao_ExportWS.mp4" frameborder="0"></iframe>
                 </div>
             </div>
         </div>
