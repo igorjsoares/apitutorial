@@ -12,6 +12,7 @@
     </head>
 
     <body>
+    <header class="page-header">
         <nav>
             <div class="nav-wrapper">
             <a href="#!" class="brand-logo">Logo</a>
@@ -20,11 +21,13 @@
             </ul>
             </div>
         </nav>
+        </header>
+        <main class="page-main">
 
         <!-- Page Layout here -->
         <div class="row">
 
-            <div class="col s3 lighten-2">
+            <div class="col s3 teal lighten-2">
                 <!-- Grey navigation panel -->
                 Testando
             </div>
@@ -32,9 +35,8 @@
             <div class="col s9">
                 <!-- Teal page content  -->
             </div>
-
         </div>
-
+</main>
         <footer class="page-footer">
           <div class="container">
             <div class="row">
