@@ -68,12 +68,11 @@
 </main>
         <footer class="page-footer blue lighten-3">
           <div class="container">
-            <div class="row">
-              <div class="col l12 s12">
+
                 <h5 class="white-text">Acesse nossa documentação </h5>
                 <li><a class="waves-effect deep-orange btn">DOCUMENTAÇÃO<i class="material-icons right">find_in_page</i></a></li>
-              </div>
-            </div>
+
+
           </div>
         </footer>
 
