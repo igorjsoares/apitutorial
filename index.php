@@ -60,7 +60,7 @@
 
             <div class="col s8 black">
                 <!-- Video em questão  -->
-                <div class="video-container ">
+                <div class="video-container valign-wrapper">
                     <iframe width="852" height="480" src="videos/API_Apresentacao_ExportWS.mp4" frameborder="0"></iframe>
                 </div>
             </div>
@@ -69,8 +69,8 @@
         <footer class="page-footer blue lighten-3">
           <div class="container">
             <div class="row">
-                <div class="col s6">
-                    <h5 style="text-align: right;" class="white-text valign-wrapper">Acesse nossa documentação</h5>
+                <div class="col s6 valign-wrapper">
+                    <h5 style="text-align: right;" class="white-text">Acesse nossa documentação</h5>
                 </div>
                 <div class="col s6 valign-wrapper">
                     <a class="waves-effect deep-orange btn">DOCUMENTAÇÃO<i class="material-icons right">find_in_page</i></a>
