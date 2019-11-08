@@ -4,9 +4,6 @@
         <!-- Compiled and minified CSS -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 
-
-
-
       <!--Let browser know website is optimized for mobile-->
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     </head>
@@ -25,21 +22,21 @@
         <main class="page-main">
 
         <!-- Page Layout here -->
-        <div class="row">
+        <div style="display: flex;" class="row">
 
-            <div class="col s3 teal lighten-2">
+            <div style="display: flex; flex-direction: column;" class="col s3 teal lighten-2">
                 <!-- Grey navigation panel -->
                 Testando
             </div>
 
-            <div class="col s9">
+            <div style="display: flex; flex-direction: column;" class="col s9">
                 <!-- Teal page content  -->
             </div>
         </div>
 </main>
         <footer class="page-footer">
           <div class="container">
-            <div class="row">
+            <div style="display: flex;" class="row">
               <div class="col l12 s12">
                 <h5 class="white-text">Footer Content</h5>
               </div>
