@@ -29,7 +29,7 @@
         <!-- Page Layout here -->
         <div class="row">
 
-            <div class="col s3 teal lighten-2">
+            <div class="col s4 teal lighten-2">
                 <!-- MENU -->
                 <ul class="collection">
                     <li class="collection-item avatar active">
@@ -58,7 +58,7 @@
                 </ul>
             </div>
 
-            <div class="col s9">
+            <div class="col s8">
                 <!-- Video em questão  -->
                 <div class="video-container teal lighten-2">
                     <iframe width="852" height="480" src="videos/API_Apresentacao_ExportWS.mp4" frameborder="0"></iframe>
