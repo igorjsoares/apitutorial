@@ -24,7 +24,7 @@
         <!-- Page Layout here -->
         <div class="row">
 
-            <div class="col s3">
+            <div class="col s3 teal lighten-2">
                 <!-- Grey navigation panel -->
             </div>
 
