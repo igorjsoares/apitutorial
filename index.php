@@ -58,9 +58,9 @@
                 </ul>
             </div>
 
-            <div style="height: 100%;" class="col s8">
+            <div class="col s8 black">
                 <!-- Video em questão  -->
-                <div class="video-container teal lighten-2">
+                <div class="video-container ">
                     <iframe width="852" height="480" src="videos/API_Apresentacao_ExportWS.mp4" frameborder="0"></iframe>
                 </div>
             </div>
@@ -70,9 +70,9 @@
           <div class="container">
             <div class="row">
                 <div class="col s6">
-                    <h5 style="text-align: right;" class="white-text">Acesse nossa documentação</h5>
+                    <h5 style="text-align: right;" class="white-text valign-wrapper">Acesse nossa documentação</h5>
                 </div>
-                <div class="col s6">
+                <div class="col s6 valign-wrapper">
                     <a class="waves-effect deep-orange btn">DOCUMENTAÇÃO<i class="material-icons right">find_in_page</i></a>
                 </div>
             </div>
