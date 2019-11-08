@@ -31,40 +31,12 @@
 
             <div class="col s4">
                 <!-- MENU -->
-                <ul class="collection">
-
-                    <li class="collection-item avatar active">
-                    <a href="">
-                    <i class="material-icons circle">question_answer</i>
-                    <span class="title">O QUE É API?</span>
-                    <p>Descubra o pra que serve a API ChatPro.</p>
-                    </a>
-                    </li>
-
-                    <li class="collection-item avatar">
-                    <a href="acessopainel.html">
-                    <i class="material-icons circle">desktop_mac</i>
-                    <span class="title">ACESSO AO PAINEL</span>
-                    <p>Entenda como acessar o painel para os testes.</p>
-                    </a>
-                    </li>
-
-                    <li class="collection-item avatar">
-                    <a href="documentacao.html">
-                    <i class="material-icons circle">description</i>
-                    <span class="title">DOCUMENTAÇÃO INTERATIVA</span>
-                    <p>Realize teste pela documentação interativa.</p>
-                    </a>
-                    </li>
-
-                    <li class="collection-item avatar">
-                    <a href="postman.html">
-                    <i class="material-icons circle">import_export</i>
-                    <span class="title">POSTMAN</span>
-                    <p>Realize testes pelo POSTMAN.</p>
-                    </a>
-                    </li>
-                </ul>
+                <div class="collection">
+                    <a href="apresentacao.html" class="collection-item active">O QUE É API CHATPRO?</a>
+                    <a href="painel.html" class="collection-item">COMO ACESSAR O PAINEL?</a>
+                    <a href="documentacao.html" class="collection-item">DOCUMENTAÇÃO INTERATIVA</a>
+                    <a href="postman.html" class="collection-item">TESTES VIA POSTMAN</a>
+                </div>
             </div>
 
             <div class="col s8 black">
