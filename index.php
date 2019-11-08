@@ -26,6 +26,7 @@
 
             <div class="col s3 teal lighten-2">
                 <!-- Grey navigation panel -->
+                Testando
             </div>
 
             <div class="col s9">
