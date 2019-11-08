@@ -67,16 +67,8 @@
         </div>
 </main>
         <footer class="page-footer blue lighten-3">
-          <div class="container">
-            <div class="row">
-                <div class="col s6 valign-wrapper">
-                    <h5 style="text-align: right;" class="white-text">Acesse nossa documentação</h5>
-                </div>
-                <div class="col s6 valign-wrapper">
-                    <a class="waves-effect deep-orange btn">DOCUMENTAÇÃO<i class="material-icons right">find_in_page</i></a>
-                </div>
-            </div>
-          </div>
+        Acesse nossa documentação
+
         </footer>
 
 
