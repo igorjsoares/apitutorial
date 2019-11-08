@@ -66,7 +66,8 @@
             </div>
         </div>
 </main>
-        <footer class="page-footer blue lighten-4
+        <footer class="page-footer blue lighten-3">
+          <div class="container">
             <div class="row">
               <div class="col l12 s12">
                 <h5 class="white-text">Acesse nossa documentação </h5>
