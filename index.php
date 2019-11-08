@@ -16,10 +16,10 @@
     <body>
     <header class="page-header">
         <nav>
-            <div class="nav-wrapper white">
+            <div style="padding: 5px;" class="nav-wrapper white">
             <a href="#!" class="brand-logo"><img src="logo-chatpro.svg"></a>
             <ul class="right hide-on-med-and-down">
-                <li><a class="waves-effect waves-light btn">Acessar o Painel <i class="material-icons right">cloud</i></a></li>
+                <li><a class="waves-effect #f4511e btn">Acessar o Painel <i class="material-icons right">desktop_mac</i></a></li>
             </ul>
             </div>
         </nav>
@@ -35,7 +35,10 @@
             </div>
 
             <div class="col s9">
-                <!-- Teal page content  -->
+                <!-- Video em questão  -->
+                <div class="video-container">
+                    <iframe width="853" height="480" src="videos/API_Apresentacao_ExportWS.mp4" frameborder="0" allowfullscreen></iframe>
+                </div>
             </div>
         </div>
 </main>
