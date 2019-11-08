@@ -58,7 +58,7 @@
                 </ul>
             </div>
 
-            <div class="col s8">
+            <div style="height: 100%;" class="col s8">
                 <!-- Video em questão  -->
                 <div class="video-container teal lighten-2">
                     <iframe width="852" height="480" src="videos/API_Apresentacao_ExportWS.mp4" frameborder="0"></iframe>
@@ -66,8 +66,7 @@
             </div>
         </div>
 </main>
-        <footer class="page-footer 8e24aa">
-          <div class="container">
+        <footer class="page-footer blue lighten-4
             <div class="row">
               <div class="col l12 s12">
                 <h5 class="white-text">Acesse nossa documentação </h5>
