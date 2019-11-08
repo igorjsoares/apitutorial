@@ -19,7 +19,7 @@
             <div style="padding: 10px;" class="nav-wrapper white">
             <a href="#!" class="brand-logo"><img src="logo-chatpro.svg"></a>
             <ul class="right hide-on-med-and-down">
-                <li><a class="waves-effect #f4511e btn">Acessar o Painel <i class="material-icons right">desktop_mac</i></a></li>
+                <li><a class="waves-effect deep-orange btn">Acessar o Painel <i class="material-icons right">desktop_mac</i></a></li>
             </ul>
             </div>
         </nav>
