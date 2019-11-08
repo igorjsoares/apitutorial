@@ -37,15 +37,17 @@
             <div class="col s9">
                 <!-- Video em questão  -->
                 <div class="video-container">
-                    <iframe src="videos/API_Apresentacao_ExportWS.mp4" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="852" height="480" src="videos/API_Apresentacao_ExportWS.mp4" frameborder="0"></iframe>
                 </div>
             </div>
         </div>
 </main>
         <footer class="page-footer">
+          <div class="container">
             <div class="row">
               <div class="col l12 s12">
                 <h5 class="white-text">Footer Content</h5>
+              </div>
             </div>
           </div>
         </footer>
