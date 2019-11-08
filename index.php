@@ -29,7 +29,7 @@
         <!-- Page Layout here -->
         <div class="row">
 
-            <div class="col s4 teal lighten-2">
+            <div class="col s4">
                 <!-- MENU -->
                 <ul class="collection">
                     <li class="collection-item avatar active">
