@@ -17,7 +17,7 @@
     <header class="page-header">
         <nav>
             <div class="nav-wrapper white">
-            <a href="#!" class="brand-logo">Logo</a>
+            <a href="#!" class="brand-logo"><img src="logo-chatpro.svg"></a>
             <ul class="right hide-on-med-and-down">
                 <li><a class="waves-effect waves-light btn">Acessar o Painel <i class="material-icons right">cloud</i></a></li>
             </ul>
