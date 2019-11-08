@@ -22,7 +22,7 @@
         </nav>
 
         <!-- Page Layout here -->
-        <div class="row">
+        <div class="main">
 
             <div class="col s3 teal lighten-2">
                 <!-- Grey navigation panel -->
