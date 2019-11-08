@@ -35,7 +35,10 @@
             </div>
 
             <div class="col s9">
-                <iframe width="852" height="480" src="videos/API_Apresentacao_ExportWS.mp4" frameborder="0"></iframe>
+                <!-- Video em questão  -->
+                <div class="video-container">
+                    <iframe width="852" height="480" src="videos/API_Apresentacao_ExportWS.mp4" frameborder="0"></iframe>
+                </div>
             </div>
         </div>
 </main>
