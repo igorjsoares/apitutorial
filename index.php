@@ -68,7 +68,7 @@
 </main>
         <footer class="page-footer blue lighten-3">
 
-            <h4>Acesse nossa documentação</h4>
+            Acesse nossa documentação
             <a style="margin-left: 10px;" class="waves-effect deep-orange btn">DOCUMENTAÇÃO<i class="material-icons right">find_in_page</i></a>
 
         </footer>
