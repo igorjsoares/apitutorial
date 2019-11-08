@@ -68,8 +68,8 @@
 </main>
         <footer class="page-footer blue lighten-3">
         <div class="container">
-            Acesse nossa documentação
-            <a class="waves-effect deep-orange btn">DOCUMENTAÇÃO<i class="material-icons right">find_in_page</i></a>
+            <h5>Acesse nossa documentação</h5>
+            <a style="margin-left: 10px;" class="waves-effect deep-orange btn">DOCUMENTAÇÃO<i class="material-icons right">find_in_page</i></a>
         </div>
         </footer>
 
